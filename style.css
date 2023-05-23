@@ -1,3 +1,29 @@
+* {
+    font-family: Geneva, Verdana, 'Lucida Sans', 'Lucida Sans Regular',
+}
+
+/* Nav styles */
 .nav-list{
     list-style-type: none;
 }
+.nav-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 10px; 
+    right: 10px; 
+  }
+  
+  .nav-list li {
+    display: inline-block;
+    margin-left: 10px; 
+  }
+  
+  .nav-list li a {
+    text-decoration: none;
+  }
+
+  .h1-name{
+    
+  }
